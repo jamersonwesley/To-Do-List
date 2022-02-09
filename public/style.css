@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.tasks{
+    margin: 10px auto;
+    max-width: 700px; 
+    background-color: blueviolet;
+    padding: 20px;
+    border-radius: 24px;
+    text-align: center;
+    align-items: center;
+   
+   
+}
+body{
+    background-color: black;
+}
